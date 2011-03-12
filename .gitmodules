@@ -1,0 +1,9 @@
+[submodule "steal"]
+	path = steal
+	url = git@github.com:mowen/steal.git
+[submodule "funcunit"]
+	path = funcunit
+	url = git@github.com:mowen/funcunit.git
+[submodule "jquerymx"]
+	path = jquerymx
+	url = git@github.com:mowen/jquerymx.git
