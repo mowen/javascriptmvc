@@ -5,5 +5,5 @@
 	path = funcunit
 	url = git@github.com:mowen/funcunit.git
 [submodule "jquery"]
-	path = jquerymx
+	path = jquery
 	url = git@github.com:mowen/jquerymx.git
